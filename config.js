@@ -2,17 +2,17 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-//inserisci il tuo o i tuoi numeri 
+//+39 06 519 3151
 
 global.owner = [
-  ['39xxxxxxxx', 'nobody|']
+  ['+39 06 519 3151', '+39 06 519 3151']
 
-] //inserisci il tuo o i tuoi numeri 
+]+39 06 519 3151 
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['39xxxx'] 
-global.prems = ['39xxxx', '39xxxx']
+global.mods = ['+39 06 519 3151'] 
+global.prems = ['+39 06 519 3151', '+39 06 519 3151']
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
